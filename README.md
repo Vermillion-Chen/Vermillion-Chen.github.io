@@ -1,4 +1,4 @@
-![alt text](https://https://github.com/Vermillion-Chen/Vermillion-Chen.github.io/blob/main/images/ChenXBanner.jpg?raw=true)
+![alt text](https://https://github.com/Vermillion-Chen/Vermillion-Chen.github.io/main/images/ChenXBanner.jpg?raw=true)
 ## Personal Portfolio Website
 ---
 Based on Ethereal by HTML5 UP
