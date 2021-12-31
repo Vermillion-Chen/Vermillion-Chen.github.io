@@ -309,6 +309,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
+			transition: 200ms;
 			color: #ffe4b4;
 		}
 
@@ -1842,6 +1843,9 @@ input, select, textarea {
 				z-index: 999;
 				align-self: flex-end;
 				opacity: 0;
+			}
+			.gallery .image .light{
+				color: #fdd997;
 			}
 			.gallery .image:hover .desc {
 				opacity: 1;
